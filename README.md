@@ -10,3 +10,9 @@ A clone of *Geometry Dash (RobTop)* that doesn't suck! To ensure legal complianc
 - Level player
 - Level editor
 - Player-created levels
+
+## Made With
+
+- Vite *([vite.dev](https://vite.dev/))*
+- TypeScript *([typescriptlang.org](https://www.typescriptlang.org/))*
+- Web Standards 🙄 *([w3.org](https://w3.org))*
